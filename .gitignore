@@ -427,3 +427,12 @@ FodyWeavers.xsd
 *.msix
 *.msm
 *.msp
+
+.vscode/
+bin/
+obj/
+*.user
+*.suo
+.env
+.DS_Store
+Thumbs.db
