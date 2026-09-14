@@ -1,2 +1,2 @@
 # ensalamento-universidade
-Sistema web de ensalamento para instituto de ensino superior.
+Esta e a pagina inicial do sistema de ensalamento universitario.
